@@ -2,7 +2,7 @@
 
 # Node.JS Project: SlingAir!
 
-<img src='frontend/src/assets/screenshots/header.png' style='width:100%' />
+
 
 You just accepted the full-stack developer position at Slingshot Airlines!
 
@@ -16,7 +16,7 @@ When you asked if it was possible to speak to the dev that worked on the project
 
 Looks like you're on your own...
 
-![mvp gif](frontend/src/assets/screenshots/slingair_mvp.gif)
+
 
 ---
 
@@ -24,8 +24,7 @@ Looks like you're on your own...
 
 ### Screenshots
 
-<img src='frontend/src/assets/screenshots/seat-select.png' style='float:left;width:48%;margin-right:4%;' />
-<img src='frontend/src/assets/screenshots/confirmed.png' style='float:left;width:48%' />
+
 
 ### Functionality
 
@@ -55,7 +54,7 @@ Use `yarn dev:frontend` to start the frontend dev environment.
 
 Use `yarn dev:backend` to start the backend dev environment.
 
-![dual terminal](frontend/src/assets/screenshots/dual_terminal.gif)
+
 
 ## Developer Notes
 
